@@ -19,4 +19,4 @@ function Fibonacci(number) {            // Inserindo um valor
 }
 
 let tela = document.querySelector("#telaFibonacci");
-tela.innerHTML = `O Fatorial é igual a ${Fibonacci(10)}`
+tela.innerHTML = `Os números somados é igual a ${Fibonacci(10)}`
