@@ -1,4 +1,6 @@
-- Meus exercicios resolvidos do site Project-Euler
+# Project-Euler-Exercises
+
+* Meus exercicios resolvidos do site Project-Euler
 
 * Para visualizar os exercicios, clone ou baixe esse repositorio e abra o arquivo "index.html" no navegador.
 
