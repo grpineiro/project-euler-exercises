@@ -1,8 +1,8 @@
 # Project-Euler-Exercises
 
-* Meus exercicios resolvidos do site Project-Euler
+* Meus exercícios resolvidos do site Project-Euler.
 
-* Para visualizar os exercicios, clone ou baixe esse repositorio e abra o arquivo "index.html" no navegador, ou então acesse os links apos esse tópico.
+* Para visualizar os exercícios, clone ou baixe esse repositório e abra o arquivo "index.html" no navegador, ou então acesse os links após esse tópico.
 
 * IMPORTANTE: Mantenha aberto o console do navegador.
 
