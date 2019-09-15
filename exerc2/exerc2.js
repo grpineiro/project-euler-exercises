@@ -9,7 +9,7 @@ function Fibonacci() {            // Inserindo um valor
         fib[0] = fib[1];
         fib[1] = i;
     
-            if (i % 2 === 0) {
+        if (i % 2 === 0) {
             soma += i;
         }
     }
