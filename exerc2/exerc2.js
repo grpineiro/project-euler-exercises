@@ -4,7 +4,7 @@ function Fibonacci() {            // Inserindo um valor
     let i = 0;
     let soma = 0;
 
-    while (fib[0]+fib[1] < 4000000) {
+    while (fib[0] + fib[1] < 4000000) {
         i = fib[0] + fib[1];
         fib[0] = fib[1];
         fib[1] = i;
