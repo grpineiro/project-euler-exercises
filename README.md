@@ -4,7 +4,7 @@
 
 * Para visualizar os exercícios, clone ou baixe esse repositório e abra o arquivo "index.html" no navegador, ou então acesse os links após esse tópico.
 
-* IMPORTANTE: Mantenha aberto o console do navegador.
+* **IMPORTANTE:** Mantenha aberto o console do navegador.
 
 # Links
 
