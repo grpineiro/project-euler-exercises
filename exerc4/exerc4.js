@@ -7,8 +7,8 @@ function Palindrome() {
     let array = [];    
     for (let i = 999; i > 100; i--) {
         for (let j = 999; j > 100; j--) {
-            let mul = j * i;
-            if (checkPalin(mul)) {
+            let mult = j * i;
+            if (checkPalin(mult)) {
                 array.push(j * i);
             }
         }
