@@ -11,3 +11,4 @@
 - Solução 1: https://grpineiro.github.io/project-euler-exercises/exerc1/
 - Solução 2: https://grpineiro.github.io/project-euler-exercises/exerc2/
 - Solução 3: https://grpineiro.github.io/project-euler-exercises/exerc3/
+- Solução 4: https://grpineiro.github.io/project-euler-exercises/exerc4/
